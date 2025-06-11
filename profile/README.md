@@ -58,7 +58,7 @@ Windows -> Open Putty -> Enter IP address -> You will be prompted to Accept -> E
 
 ![image](https://github.com/user-attachments/assets/7a5a9c84-ec34-4bf2-9b88-eced473ef444)
 
-Choose Accept 
+Choose Accept..
 
 ![image](https://github.com/user-attachments/assets/8c9db21a-4465-4c2c-ade6-0aa59bdf83b1)
 
